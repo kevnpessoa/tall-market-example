@@ -4,8 +4,7 @@ This project is an web app to help us to organizer an list of market.
 
 ## Tools
 
-Uses TALL Stack:
-- [TALL Stack](https://tallstack.dev/).
+Uses [TALL Stack](https://tallstack.dev/):
 
 - [Tailwind CSS](https://tailwindcss.com/).
 - [Alpine.js](https://github.com/alpinejs/alpine).
